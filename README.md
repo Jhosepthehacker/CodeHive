@@ -5,7 +5,7 @@
 ```bash
 https://jhosepthehacker.github.io/Webhtmlgithub.io/
 ```
-[!tip]
+[!TIP]
 >l
 
 > [!warning]
