@@ -1,7 +1,7 @@
 # Códigoamiguitos.dev
 
 > Visiten aquí mi página web
-> .[tip].
+> .[!tip].
 ```bash
 https://jhosepthehacker.github.io/Webhtmlgithub.io/
 ```
@@ -10,3 +10,4 @@ https://jhosepthehacker.github.io/Webhtmlgithub.io/
 > .[!caution].
 
 > [!caution]
+>Hola
