@@ -5,12 +5,12 @@
 ```bash
 https://jhosepthehacker.github.io/Webhtmlgithub.io/
 ```
-[!tip.]
+[!ip.]
 >l
 
-> [!caution]
+> [!warning]
 >l
 
 
-> [!caution]
+> [!Caution]
 >l
