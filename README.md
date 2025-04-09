@@ -8,6 +8,5 @@ https://jhosepthehacker.github.io/Webhtmlgithub.io/
 .[!tip.]
 
 > .[!caution].
-
 > [!caution]
 >Hola
