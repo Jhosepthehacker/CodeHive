@@ -13,7 +13,7 @@ https://jhosepthehacker.github.io/Webhtmlgithub.io/
 >[!TIP]
 >También pueden mandarme un mensaje y ser colaborador de la página web
 
->[WARNING]
+>[!WARNING]
 >Agradezco que no hayan ataques DDOS al sitio web
 
 >[!CAUTION]
