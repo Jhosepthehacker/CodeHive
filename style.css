@@ -9,7 +9,13 @@ color: purple;
 }
 
 button {
+  background-color: lightgreen;
   text-align: center;
-  color: lightgreen;
+  color: green;
+  
+}
+
+input {
+   color: orange;
   
 }
