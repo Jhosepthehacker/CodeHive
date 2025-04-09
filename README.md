@@ -4,13 +4,13 @@
 ```bash
 https://jhosepthehacker.github.io/Webhtmlgithub.io/
 ```
->[NOTE]
+>[!NOTE]
 >l
 
 >[!TIP]
 >l
 
->[IMPORTANT]
+>[!IMPORTANT]
 >hola
 
 > [!WARNING]
