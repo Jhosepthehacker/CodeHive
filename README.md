@@ -5,16 +5,13 @@
 https://jhosepthehacker.github.io/Webhtmlgithub.io/
 ```
 >[!NOTE]
->l
-
->[!TIP]
->l
+>Este es mi correo de contacto josemanuelramirezrengifo9@gmail.com
 
 >[!IMPORTANT]
->hola
+>Cualquier cosa que vean o error en la página web en este contacto pueden enviar sugerencias y los posibles errores que haya en la página web
 
-> [!WARNING]
->l
+>[!TIP]
+>También pueden mandarme un mensaje y ser colaborador de la página web
 
-> [!CAUTION]
->l
+>[!CAUTION]
+>Les agradezco usar este correo para contacto y no para malas actividades black hat
