@@ -6,8 +6,8 @@ body {
 div {
   text-align: center;
 color: purple;
-  width: 16px;
-  height: 16px;
+  width: 40px;
+  height: 40px;
 }
 
 button {
@@ -19,8 +19,8 @@ button {
 
 input {
    color: orange;
-  width: 16px;
-  height: 16px;
+  width: 40px;
+  height: 40px;
 }
 
 #JavaScript {
@@ -30,7 +30,7 @@ input {
 }
 
 form {
-  width: 16px;
-  height: 16px;
+  width: 40px;
+  height: 40px;
   
 }
