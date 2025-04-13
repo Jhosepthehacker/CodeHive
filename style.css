@@ -6,7 +6,8 @@ body {
 div {
   text-align: center;
 color: purple;
-  
+  width: 16px;
+  height: 16px;
 }
 
 button {
