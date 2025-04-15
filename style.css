@@ -3,7 +3,7 @@ body {
   margin: 10px;
 }
 
-div {
+#informe {
   text-align: center;
 color: purple;
   width: 40px;
@@ -38,10 +38,5 @@ form {
 footer {
   text-align: center;
   color: grey;
-  
-}
-
-#informe {
-   color: red;
   
 }
