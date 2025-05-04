@@ -20,6 +20,22 @@ input {
    color: orange;
 }
 
+#html {
+   text-align: center;
+   background-color: orange;
+   margin: 20px;
+   border: 6px solid black;
+  
+}
+
+#css {
+   text-align: center;
+   background-color: blue;
+   margin: 20px;
+   border: 6px solid black;
+  
+}
+
 #javascript {
    text-align: center;
    background-color: yellow;
