@@ -64,7 +64,7 @@ logo {
 
 p {
   background-color: lightgreen;
-  border: 6px dashed red;
+  border: 6px dashed #FF0000;
   padding: 20px;
   margin: 20px;
 }
