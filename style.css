@@ -61,3 +61,10 @@ logo {
         color: blue;
   
 }
+
+p {
+  background-color: lightgreen;
+  border: 6px dashed red;
+  padding: 20px;
+  margin: 20px;
+}
