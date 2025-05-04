@@ -62,9 +62,25 @@ logo {
   
 }
 
-p {
+#html2 {
   background-color: lightgreen;
   border: 6px dashed #FF0000;
   padding: 20px;
   margin: 20px;
+}
+
+#css2 {
+  background-color: lightgreen;
+  border: 6px dashed #FF0000;
+  padding: 20px;
+  margin: 20px;
+  
+}
+
+#js2 {
+  background-color: lightgreen;
+  border: 6px dashed #FF0000;
+  padding: 20px;
+  margin: 20px;
+  
 }
