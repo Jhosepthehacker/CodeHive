@@ -22,7 +22,9 @@ input {
 
 #JavaScript {
    text-align: center;
-  color: yellow;
+   background-color: yellow;
+   margin: 20px;
+   border: 6px solid black;
   
 }
 
