@@ -4,7 +4,7 @@
 
 > Visiten aquí mi página web
 ```bash
-https://jhosepthehacker.github.io/Webhtmlgithub.io/
+https://jhosepthehacker.github.io/CodeHive/
 ```
 >[!NOTE]
 >Este es mi correo de contacto josemanuelramirezrengifo9@gmail.com
