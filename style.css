@@ -63,7 +63,7 @@ footer {
   
 }
 
-logo {
+#logo {
     text-align: center;
         color: blue;
   
@@ -108,7 +108,7 @@ height: 100px;
   
 }
 
-#imagen {
+#perrito {
 width: 200px; 
 height: 200px;
   
