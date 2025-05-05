@@ -1,7 +1,10 @@
+/* body styles */
 body {
   background-color: #0008B;
   margin: 0;
 }
+
+/* id informe styles */
 
 #informe {
   text-align: center;
@@ -9,12 +12,16 @@ color: purple;
   
 }
 
+/* button styles */
+
 button {
   background-color: lightgreen;
   text-align: center;
   color: green;
   
 }
+
+/* input styles */
 
 input {
    color: orange;
