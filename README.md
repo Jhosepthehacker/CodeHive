@@ -1,5 +1,5 @@
 # Code Hive
-<div class="container" style="color: #FF0000;">CodeHive</div>
+
 ## Mi Primera Página Web
 
 > Visiten aquí mi página web
