@@ -103,6 +103,12 @@ border: 6px brown;
 }
 
 #logo {
+width: 100px; 
+height: 100px;
+  
+}
+
+#imagen {
 width: 60ww; 
 height: 60ww;
   
