@@ -99,7 +99,9 @@ text-align: center;
 
 img {
 border: 6px brown;
-  
+width: 600px;
+height: 600px;
+
 }
 
 #logo {
