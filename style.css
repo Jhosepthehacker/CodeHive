@@ -9,7 +9,6 @@ body {
 #informe {
   text-align: center;
 color: purple;
-  
 }
 
 /* button styles */
@@ -18,7 +17,6 @@ button {
   background-color: lightgreen;
   text-align: center;
   color: green;
-  
 }
 
 /* input styles */
@@ -32,7 +30,6 @@ input {
    background-color: orange;
    margin: 20px;
    border: 6px solid black;
-  
 }
 
 #css {
@@ -40,7 +37,6 @@ input {
    background-color: blue;
    margin: 20px;
    border: 6px solid black;
-  
 }
 
 #js {
@@ -48,25 +44,21 @@ input {
    background-color: yellow;
    margin: 20px;
    border: 6px solid black;
-  
 }
 
 form {
   width: 40px;
   height: 40px;
-  
 }
 
 footer {
   text-align: center;
   color: grey;
-  
 }
 
 #logo {
     text-align: center;
         color: blue;
-  
 }
 
 #html2 {
@@ -81,7 +73,6 @@ footer {
   border: 6px dashed #00008B;
   padding: 20px;
   margin: 20px;
-  
 }
 
 #js2 {
@@ -89,7 +80,6 @@ footer {
   border: 6px dashed gold;
   padding: 20px;
   margin: 20px;
-  
 }
 
 h4 {
@@ -98,13 +88,17 @@ text-align: center;
 }
 
 #logo {
-width: 100px; 
-height: 100px;
-  
+width: 200px; 
+height: 200px;
+margin: 6px;
 }
 
 #saludos {
 text-align: center;
 color: #0000FF;
-  
+}
+
+#logotipo {
+display: flex;
+align-items: center;
 }
