@@ -88,8 +88,8 @@ text-align: center;
 }
 
 #logo {
-width: 200px; 
-height: 200px;
+width: 100px; 
+height: 100px;
 margin: 6px;
 }
 
@@ -102,3 +102,4 @@ color: #0000FF;
 display: flex;
 align-items: center;
 }
+
