@@ -1,3 +1,3 @@
-let nombre = "Hola ";
-let nombre2 = "A Todos"
-alert ("¡Hola, " + nombre + nombre2 + "!");
+let saludos = "Bienvenidos ";
+let saludos2 = "A Mi Página Web :) ^_^"
+alert ("¡Hola, " + saludos + saludos2 + "!");
