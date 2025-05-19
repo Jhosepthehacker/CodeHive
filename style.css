@@ -84,8 +84,12 @@ footer {
 }
 
 h4 {
-text-align: center;
-  color: brown;
+  background-color: #6788DE;
+  padding: 6px;
+  border: 2px dashed black;
+  text-align: center;
+  color: #24DA68;
+  margin: 20px;
 }
 
 #logo {
