@@ -127,6 +127,7 @@ margin-left: 6px;
 
 #frontend {
   margin: 20px;
+  text-align: center;
 }
 
 #frontend2 {
@@ -135,6 +136,7 @@ margin: 20px;
 
 #backend {
 margin: 20px;
+text-align: center;
 }
 
 #backend2 {
