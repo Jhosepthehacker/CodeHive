@@ -151,3 +151,10 @@ text-align: center;
 #api {
 margin: 20px;
 }
+
+#definir {
+margin: 20px;
+border: 6px dashed #8888FF;
+background-color: #46AD88;
+padding: 2px;
+}
