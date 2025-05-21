@@ -143,6 +143,11 @@ text-align: center;
 margin: 20px;
 }
 
+#conectar {
+margin: 20px;
+text-align: center;
+}
+
 #api {
 margin: 20px;
 }
