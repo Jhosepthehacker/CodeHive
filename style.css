@@ -123,5 +123,24 @@ font-size: 20px;
 
 li {
 margin-left: 6px;
-  
+}
+
+#frontend {
+  margin: 20px;
+}
+
+#frontend2 {
+margin: 20px;
+}
+
+#backend {
+margin: 20px;
+}
+
+#backend2 {
+margin: 20px;
+}
+
+#api {
+margin: 20px;
 }
