@@ -132,8 +132,8 @@ margin-left: 6px;
 
 #frontend2 {
 margin: 20px;
-padding: 2px;
-border: 6px dashed #21AE56;
+padding: 12px;
+border: 6px dashed #2266AF;
 }
 
 #backend {
@@ -143,8 +143,8 @@ text-align: center;
 
 #backend2 {
 margin: 20px;
-padding: 2px;
-border: 6px dashed #AEDA26;
+padding: 12px;
+border: 6px dashed #FF6662;
 }
 
 #conectar {
