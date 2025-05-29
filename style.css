@@ -165,5 +165,12 @@ padding: 20px;
 
 #type {
 text-align: center;
+border: 2px solid black;
+margin: 20px;
+}
+
+#definición {
+border: 6px dashed #EAD268;
+padding: 6px;
 margin: 20px;
 }
