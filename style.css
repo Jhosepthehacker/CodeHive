@@ -32,21 +32,21 @@ input {
    text-align: center;
    background-color: orange;
    margin: 20px;
-   border: 6px solid black;
+   border: 2px solid black;
 }
 
 #css {
    text-align: center;
    background-color: blue;
    margin: 20px;
-   border: 6px solid black;
+   border: 2px solid black;
 }
 
 #js {
    text-align: center;
    background-color: yellow;
    margin: 20px;
-   border: 6px solid black;
+   border: 2px solid black;
 }
 
 form {
@@ -133,7 +133,7 @@ margin-left: 6px;
 #frontend2 {
 margin: 20px;
 padding: 12px;
-border: 6px dashed #2266AF;
+border: 2px dashed #2266AF;
 }
 
 #backend {
@@ -144,7 +144,7 @@ text-align: center;
 #backend2 {
 margin: 20px;
 padding: 12px;
-border: 6px dashed #FF6662;
+border: 2px dashed #FF6662;
 }
 
 #conectar {
