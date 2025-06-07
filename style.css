@@ -66,21 +66,21 @@ footer {
 
 #html2 {
   background-color: lightgreen;
-  border: 6px dashed #FF0000;
+  border: 2px dashed #FF0000;
   padding: 20px;
   margin: 20px;
 }
 
 #css2 {
   background-color: #6666FF;
-  border: 6px dashed #00008B;
+  border: 2px dashed #00008B;
   padding: 20px;
   margin: 20px;
 }
 
 #js2 {
   background-color: orange;
-  border: 6px dashed gold;
+  border: 2px dashed gold;
   padding: 20px;
   margin: 20px;
 }
