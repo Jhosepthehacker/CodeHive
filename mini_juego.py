@@ -1,5 +1,6 @@
 import random as r
 import time as t
+import sys
 
 def juego():
     name = input("¡Hola usuario!, ¿Cómo te llamas?: ")
@@ -31,3 +32,6 @@ def juego():
                 elif entrada == numero:
                     print(f"Felicidades has encontrado el número {numero} en {intentos} intentos")
                     break
+        elif pregunta.lower() == "no":
+            print("Operación cancelada")
+            sys.exit()
