@@ -177,3 +177,12 @@ border: 6px dashed #EAD268;
 padding: 6px;
 margin: 20px;
 }
+
+.box {
+  background-color: #8888FF;
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+  float: left;
+  border: 2px solid black;
+}
