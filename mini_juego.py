@@ -25,6 +25,8 @@ def juego():   # Se declara la función juego
                     entrada = int(input("Adivina un número del 1 al 100"))
                 except ValueError:
                     print("¡Respuesta Inválida!")
+                    intentos += 1
+                    print("")
                 if entrada > numero:
                     print("Demasiado alto")
                 elif entrada < numero:
