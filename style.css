@@ -36,6 +36,8 @@ input {
   font-family: verdana;
 }
 
+/* css styles */
+
 #css {
    text-align: center;
    background-color: blue;
@@ -43,6 +45,8 @@ input {
    border: 4px solid black;
    font-family: quicksand;
 }
+
+/* js styles */
 
 #js {
    text-align: center;
