@@ -6,7 +6,7 @@ def juego():   # Se declara la función juego
     name = input("¡Hola usuario!, ¿Cómo te llamas?: ")  # Entrada de datos "input"
     print("")    # Salto de línea 
     pregunta = input(f"{name}, ¿Quiéres jugar?: ") # Entrada de datos "input" si el usuario quiere jugar o no
-    if pregunta.lower() == "si" or pregunta.lower() == "sí": # Comprobando la respuesta del usuario
+    if pregunta.lower() == "si" or pregunta.lower() == "sí" or pregunta.lower() == "si " or pregunta.lower() == "sí ": # Comprobando la respuesta del usuario
         options_game = ["######################################",
                         "#                                     ",
                         "# adivinanzas | adventura, | combate  ",  # Opciones de juego
@@ -35,6 +35,8 @@ def juego():   # Se declara la función juego
         elif pregunta.lower() == "no":
             print("Operación cancelada")
             sys.exit()
+        else:
+            print("¡Respuesta Inválida!")
 
 # Iniciar el juego llamando la función "juego"
 
