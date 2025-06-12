@@ -5,5 +5,6 @@ if (saludos == "Bienvenidos"){
         console.log("¡Hola, " + saludos + saludos2 + "!");
 };
 funtion frontend(){
-        container.innerHTML = "<p id="definición">Hay dos tipos de programación, front-end y back-end.</p>"
+        let container.innerHTML = document.body;
+        container.innerHTML += `<p id="definición">Hay dos tipos de programación, front-end y back-end.</p>`
 };
