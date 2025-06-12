@@ -17,7 +17,7 @@ def juego():   # Se declara la función juego
             print(i)  # Imprimiendo el valor de la variable "i" que almacenó la iteración de la lista "options_game"
             print("")  # Salto de línea
         type_game = input(f"{name}, ¿Qué tipo de juego prefieres?: ")
-        if type_game.lower() == "adivinanzas" or type_game.lower() == "adivinar":
+        if type_game.lower() == "adivinanzas" or type_game.lower() == "adivinar" or type_game.lower() == "adivinanzas ":
             numero = r.randint(1, 100)
             intentos = 0
             while True:
