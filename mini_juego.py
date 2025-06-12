@@ -40,7 +40,16 @@ def juego():   # Se declara la función juego
     else:
         print("¡Respuesta Inválida!")
 
+class Despedir:
+    def __init__(self, despedida, nombre)
+        self.despedida = saludar
+        self.nombre = nombre
+    def saludo():
+        return f"{despedida} {nombre}"
+despedir_usuario = Despedir(f"Adiós", " {name}")
+
 # Iniciar el juego llamando la función "juego"
 
 if __name__ == '__main__':
     juego()
+# En desarrollo el programa
