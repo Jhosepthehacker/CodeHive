@@ -32,11 +32,11 @@ def juego():   # Se declara la función juego
                 elif entrada == numero:
                     print(f"Felicidades has encontrado el número {numero} en {intentos} intentos")
                     break
-        elif pregunta.lower() == "no":
-            print("Operación cancelada")
+    elif pregunta.lower() == "no":
+        print("Operación cancelada")
             sys.exit()
-        else:
-            print("¡Respuesta Inválida!")
+    else:
+        print("¡Respuesta Inválida!")
 
 # Iniciar el juego llamando la función "juego"
 
