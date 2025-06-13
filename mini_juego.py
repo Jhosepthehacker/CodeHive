@@ -34,6 +34,21 @@ def juego():   # Se declara la función juego
                 elif entrada == numero:
                     print(f"Felicidades has encontrado el número {numero} en {intentos} intentos")
                     break
+        elif type_game.lower() == "combate" or type_game.lower() == "combate ":
+            nombre = input("¿Cómo te llamas?: ")
+            print("")
+            preguntar = input("¿Quiéres jugar?: ")
+            print("")
+            if preguntar.lower() == "si" or preguntar.lower() == "sí" or preguntar.lower() == "sí " or preguntar.lower == "si ":
+                print("Empezando juego")
+                t.sleep(2)
+                print("----------------")
+                print("  Tu: 200 Live  ")
+                print("----------------")
+                print("")
+                print("---------------------")
+                print(" Oponente: 200 Live  ")
+                print("---------------------")
     elif pregunta.lower() == "no":
         print("Operación cancelada")
             sys.exit()
