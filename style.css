@@ -194,3 +194,7 @@ margin: 20px;
 background-color: #8888FF;
 font-family: verdana;
 }
+
+#miContenido {
+  display: none;
+}
