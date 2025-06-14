@@ -201,4 +201,13 @@ font-family: verdana;
 
 #ocultando {
   display: none;
+  border: 2px dashed yellow;
+  padding: 6px;
+  font-family: verdana;
+}
+
+#mostrarInforme {
+  background-color: #ADEA26;
+  margin-left: 6px;
+  padding: 1px;
 }
