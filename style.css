@@ -177,9 +177,11 @@ margin: 20px;
 }
 
 #definición {
-border: 6px dashed #EAD268;
+background-color: #DDEEF6;
+border: 2px dashed #EAD268;
 padding: 6px;
 margin: 20px;
+font-family: verdana;
 }
 
 .box {
