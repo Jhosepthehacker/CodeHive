@@ -4,6 +4,7 @@ if (saludos == "Bienvenidos"){
         alert("¡Hola, " + saludos + saludos2 + "!");
         console.log("¡Hola, " + saludos + saludos2 + "!");
 };
+//Mostrar información
 function tipos(){
         document.getElementById('miContenido').style.display = 'block';
 };
