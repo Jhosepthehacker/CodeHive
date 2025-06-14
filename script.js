@@ -8,3 +8,7 @@ if (saludos == "Bienvenidos"){
 function tipos(){
         document.getElementById('miContenido').style.display = 'block';
 };
+//Ocultar información
+function ocultarTipos(){
+        document.getElementById('miContenido').style.display = 'none';
+}
