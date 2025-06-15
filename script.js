@@ -6,9 +6,11 @@ if (saludos == "Bienvenidos"){
 }
 //Mostrar información
 function tipos(){
+        document.getElementById('InformaciónProgramación').style.display = 'block';
         document.getElementById('miContenido').style.display = 'block';
 }
 //Ocultar información
 function ocultarTipos(){
         document.getElementById('miContenido').style.display = 'none';
+        document.getElementById('InformaciónProgramación').style.display = 'none';
 }
