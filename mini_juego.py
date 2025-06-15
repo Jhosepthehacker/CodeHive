@@ -55,13 +55,14 @@ def juego():   # Se declara la función juego
     else:
         print("¡Respuesta Inválida!")
 
-class Despedir:
-    def __init__(self, despedida, nombre)
-        self.despedida = saludar
-        self.nombre = nombre
+class Saludar:
+    def __init__(self, saludar, user)
+        self.saludar = saludar
+        self.user = user
     def saludo():
-        return f"{despedida} {nombre}"
-despedir_usuario = Despedir(f"Adiós", " {name}")
+        return f"{saludar} {user}"
+saludar_usuario = Saludar("Hola", "Usuario")
+print(saludar_usuario.saludo())
 
 # Iniciar el juego llamando la función "juego"
 
