@@ -12,5 +12,5 @@ function tipos(){
 //Ocultar información
 function ocultarTipos(){
         document.getElementById('miContenido').style.display = 'none';
-        document.getElementById('InformaciónProgramación').style.display = 'none';
+        document.getElementById('InformacionProgramacion').style.display = 'none';
 }
