@@ -6,9 +6,9 @@ if (saludos == "Bienvenidos"){
 }
 //Mostrar información
 function tipos(){
-        document.getElementById('InformacionProgramacion').style.display = 'block';
+        document.getElementById('informacionProgramacion').style.display = 'block';
 }
 //Ocultar información
 function ocultarTipos(){
-        document.getElementById('InformacionProgramacion').style.display = 'none';
+        document.getElementById('informacionProgramacion').style.display = 'none';
 }
