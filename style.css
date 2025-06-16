@@ -198,10 +198,6 @@ background-color: #8888FF;
 font-family: verdana;
 }
 
-#miContenido {
-  display: none;
-}
-
 #ocultando {
   display: none;
   border: 2px dashed yellow;
