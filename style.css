@@ -187,7 +187,7 @@ font-family: verdana;
 
 .box {
   width: 200px;
-  height: 200px;
+  height: 160px;
   margin: 2px;
   float: left;
   border: 2px solid black;
