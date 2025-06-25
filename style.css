@@ -75,6 +75,7 @@ footer {
 #html2 {
   background-color: #FF6666;
   border: 4px dashed #24DA68;
+  border-radius: 2px;
   padding: 20px;
   margin: 20px;
 }
@@ -82,6 +83,7 @@ footer {
 #css2 {
   background-color: #6666FF;
   border: 4px dashed #00008B;
+  border-radius: 2px;
   padding: 20px;
   margin: 20px;
 }
@@ -89,6 +91,7 @@ footer {
 #js2 {
   background-color: orange;
   border: 4px dashed gold;
+  border-radius: 2px;
   padding: 20px;
   margin: 20px;
 }
