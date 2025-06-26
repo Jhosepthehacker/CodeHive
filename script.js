@@ -7,6 +7,7 @@ if (saludos == "Bienvenidos"){  // Comprobando valores y condiciones de la varib
 //Mostrar información
 function tipos(){
         document.getElementById('informacionProgramacion').style.display = 'block';
+        document.getElementById('contacto').style.padding-top = '20px';
 }
 //Ocultar información
 function ocultarTipos(){
