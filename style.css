@@ -229,7 +229,7 @@ font-family: verdana;
   display: none;
 }
 
-#imagen_enlace{
+#imagenenlace{
   border: 1px solid #2222FF;
   border-radius: 6px;
   width: 20px;
@@ -250,7 +250,7 @@ font-family: verdana;
   margin-bottom: 12px;
 }
 
-#texto_enlace{
+#textoenlace{
   background-color: #2222FF;
   color: white;
   text-decoration: none;
