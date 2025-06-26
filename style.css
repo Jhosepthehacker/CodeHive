@@ -1,5 +1,5 @@
 /* body styles */
-body {
+body{
   background-color: lightblue;
   margin: 0;
   
@@ -7,14 +7,14 @@ body {
 
 /* id informe styles */
 
-#informe {
+#informe{
   text-align: center;
 color: purple;
 }
 
 /* button styles */
 
-button {
+button{
   background-color: lightgreen;
   text-align: center;
   color: green;
@@ -22,13 +22,13 @@ button {
 
 /* input styles */
 
-input {
+input{
    color: orange;
 }
 
 /* html styles */
 
-#html {
+#html{
    text-align: center;
    background-color: orange;
    margin: 20px;
@@ -38,7 +38,7 @@ input {
 
 /* css styles */
 
-#css {
+#css{
    text-align: center;
    background-color: blue;
    margin: 20px;
@@ -48,7 +48,7 @@ input {
 
 /* js styles */
 
-#js {
+#js{
    text-align: center;
    background-color: yellow;
    margin: 20px;
@@ -56,23 +56,23 @@ input {
    font-family: serif;
 }
 
-form {
+form{
   width: 40px;
   height: 40px;
 }
 
-footer {
+footer{
   text-align: center;
   color: grey;
   margin-top: 6px;
 }
 
-#logo {
+#logo{
     text-align: center;
         color: blue;
 }
 
-#html2 {
+#html2{
   background-color: #FF6666;
   border: 4px dashed #24DA68;
   border-radius: 6px;
@@ -80,7 +80,7 @@ footer {
   margin: 20px;
 }
 
-#css2 {
+#css2{
   background-color: #6666FF;
   border: 4px dashed #00008B;
   border-radius: 6px;
@@ -88,7 +88,7 @@ footer {
   margin: 20px;
 }
 
-#js2 {
+#js2{
   background-color: orange;
   border: 4px dashed gold;
   border-radius: 6px;
@@ -96,7 +96,7 @@ footer {
   margin: 20px;
 }
 
-h4 {
+h4{
   background-color: #6788DE;
   padding: 6px;
   border: 4px dashed black;
@@ -105,7 +105,7 @@ h4 {
   margin: 20px;
 }
 
-#logo {
+#logo{
 width: 60px; 
 height: 60px;
 margin-top: 6px;
@@ -114,13 +114,13 @@ margin-right: 12px;
 margin-bottom: 6px;
 }
 
-#saludos {
+#saludos{
 text-align: center;
 color: #0000FF;
 margin: 12px;
 }
 
-#logotipo {
+#logotipo{
 display: flex;
 align-items: center;
 border: 2px dashed gold;
@@ -128,7 +128,7 @@ background-color: #0000FF;
 padding: 2px;
 }
 
-#title {
+#title{
 font-size: 20px;
 }
 
@@ -136,51 +136,51 @@ li {
 margin-left: 6px;
 }
 
-#frontend {
+#frontend{
   margin: 20px;
   text-align: center;
 }
 
-#frontend2 {
+#frontend2{
 margin: 20px;
 padding: 12px;
 border: 2px dashed #2266AF;
 }
 
-#backend {
+#backend{
 margin: 20px;
 text-align: center;
 }
 
-#backend2 {
+#backend2{
 margin: 20px;
 padding: 12px;
 border: 2px dashed #FF6662;
 }
 
-#conectar {
+#conectar{
 margin: 20px;
 text-align: center;
 }
 
-#api {
+#api{
 margin: 20px;
 }
 
-#definir {
+#definir{
 margin: 20px;
 border: 6px dashed #8888FF;
 background-color: #46AD88;
 padding: 20px;
 }
 
-#type {
+#type{
 text-align: center;
 border: 2px solid black;
 margin: 20px;
 }
 
-#definición {
+#definición{
 background-color: #DDAEF6;
 border: 2px dashed #EAD268;
 padding: 6px;
@@ -189,7 +189,7 @@ margin-top: 6px;
 font-family: verdana;
 }
 
-.box {
+.box{
   width: 200px;
   height: 160px;
   margin: 2px;
@@ -197,26 +197,26 @@ font-family: verdana;
   border: 2px solid black;
 }
 
-#explicar {
+#explicar{
 background-color: #8888FF;
 font-family: verdana;
 }
 
-#ocultando {
+#ocultando{
   display: none;
   border: 2px dashed yellow;
   padding: 6px;
   font-family: verdana;
 }
 
-#mostrarInforme {
+#mostrarInforme{
   background-color: #ADEA26;
   margin-left: 6px;
   padding: 1px;
   margin: 2px;
 }
 
-#ocultarInforme {
+#ocultarInforme{
   background-color: #FF8888;
   margin-left: 6px;
   padding: 1px;
@@ -229,14 +229,14 @@ font-family: verdana;
   display: none;
 }
 
-#enlazar {
+#enlazar{
   border: 1px solid #2222FF;
   border-radius: 6px;
   width: 20px;
   height: 20px;
 }
 
-#unir {
+#unir{
   display: flex;
   align-items: center;
   margin: 2px;
