@@ -235,3 +235,9 @@ font-family: verdana;
   width: 20px;
   height: 20px;
 }
+
+#unir {
+  display: flex;
+  align-items: center;
+  margin: 2px;
+}
