@@ -249,3 +249,9 @@ font-family: verdana;
   margin-right: 0;
   margin-bottom: 12px;
 }
+
+#texto_enlace{
+  background-color: #2222FF;
+  color: white;
+  text-decoration: none;
+}
