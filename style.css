@@ -229,17 +229,18 @@ font-family: verdana;
   display: none;
 }
 
-#enlazar{
+#imagen_enlace{
   border: 1px solid #2222FF;
   border-radius: 6px;
   width: 20px;
   height: 20px;
+  margin-right: 6px;
+  margin-left: 6px;
 }
 
 #unir{
   display: flex;
   align-items: center;
-  margin: 2px;
 }
 
 .contactar{
