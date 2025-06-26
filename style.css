@@ -185,7 +185,7 @@ background-color: #DDAEF6;
 border: 2px dashed #EAD268;
 padding: 6px;
 margin: 20px;
-margin-top: 6px;
+margin-top: 8px;
 font-family: verdana;
 }
 
@@ -256,4 +256,5 @@ font-family: verdana;
   text-decoration: none;
   border: 1px solid #2222FF;
   border-radius: 6px;
+  font-family: quicksand;
 }
