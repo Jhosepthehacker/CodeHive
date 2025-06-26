@@ -254,4 +254,6 @@ font-family: verdana;
   background-color: #2222FF;
   color: white;
   text-decoration: none;
+  border: 1px solid #2222FF;
+  border-radius: 6px;
 }
