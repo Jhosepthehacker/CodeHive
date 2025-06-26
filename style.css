@@ -241,3 +241,10 @@ font-family: verdana;
   align-items: center;
   margin: 2px;
 }
+
+.contactar{
+  margin-top: 20px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 12px;
+}
