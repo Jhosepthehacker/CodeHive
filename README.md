@@ -19,7 +19,7 @@ https://jhosepthehacker.github.io/CodeHive/
 >Los que quieren apoyar por favor coloquense en contacto conmigo en el correo que les dejé usar solamente para contactar
 
 >[!WARNING]
->¡Advertencia! la página web se cayó y ha sido atacada. ¡No me hago responsable sobre posibles estafas (phishing o ingeniería social) que se puedan usar en mí página al copiar su código, ya que es open source (código abierto)!
+>¡Advertencia! la página web se cayó y ha sido atacada. ¡No me hago responsable sobre posibles estafas (phishing o ingeniería social) que se puedan causar en mí página al copiar su código, ya que es open source (código abierto)!
 
 >[!CAUTION]
 >Les agradezco usar este correo para contacto y no para malas actividades
