@@ -4,12 +4,12 @@ if (saludos == "Bienvenidos"){  // Comprobando valores y condiciones de la varib
         alert("¡Hola, " + saludos + saludos2 + "!");  // Mostrar alerta en la página web
         console.log("¡Hola, " + saludos + saludos2 + "!"); // Imprimir en la consola
 }
-//Mostrar información
+// Mostrar información
 function tipos(){
         document.getElementById('informacionProgramacion').style.display = 'block';
         document.getElementById('contacto').style.margin = '20px';
 }
-//Ocultar información
+// Ocultar información
 function ocultarTipos(){
         document.getElementById('informacionProgramacion').style.display = 'none';
         document.getElementById('contacto').style.margin = '0';
