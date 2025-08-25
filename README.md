@@ -24,4 +24,4 @@ https://jhosepthehacker.github.io/CodeHive/
 >[!CAUTION]
 >Les agradezco usar este correo para contacto y no para malas actividades
 
-[![Discord Comunity](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://discord.gg/mmvS7tPG)
+[![Discord Comunity](https://img.png)](https://discord.gg/mmvS7tPG)
