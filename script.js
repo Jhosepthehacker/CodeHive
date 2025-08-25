@@ -14,3 +14,5 @@ function ocultarTipos(){
         document.getElementById('informacionProgramacion').style.display = 'none';
         document.getElementById('contacto').style.margin = '0';
 }
+
+// En desarrollo....
