@@ -1,6 +1,6 @@
 # Code Hive
 
-## Mi Primera Página Web
+## Mi Web
 
 > Visiten aquí mi página web
 ```bash
