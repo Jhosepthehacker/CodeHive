@@ -23,5 +23,3 @@ https://jhosepthehacker.github.io/CodeHive/
 
 >[!CAUTION]
 >Les agradezco usar este correo para contacto y no para malas actividades
-
-[![Discord](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVYi665fOHg490YGYBmxWFbR5_NOjfkEPDg&amp;s)](https://discord.gg/mmvS7tPG)
