@@ -24,4 +24,4 @@ https://jhosepthehacker.github.io/CodeHive/
 >[!CAUTION]
 >Les agradezco usar este correo para contacto y no para malas actividades
 
-[![Logo de Google](https://www.google.com/imaes/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com)
+[![Logo de Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com)
