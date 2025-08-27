@@ -24,4 +24,4 @@ https://jhosepthehacker.github.io/CodeHive/
 >[!CAUTION]
 >Les agradezco usar este correo para contacto y no para malas actividades
 
->[![Discord Comunity](https://hola.png)](https://discord.gg/hp7QwNFG)
+>[![Discord Comunity](codehive.png)](https://discord.gg/hp7QwNFG)
