@@ -1,6 +1,26 @@
+import socket
 import random as r
 import time as t
 import sys
+
+class ConnectServer:
+    def __init__(self):
+        self.HOST = '127.0.0.1' # En desarrollo....
+        self.PORT = 8080
+
+        self.connect_server()
+    
+    def connect_server(self):
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+            s.connect((HOST, PORT))
+
+            while True:
+                s.sendall("¡Hola, desde el cliente!".encode('utf-8'))
+
+                self.data = s.recv(1024) # Búfer, 1024 bytes
+                self.message = self.data.decode() # Mensaje decodificado
+
+                print(f"Mensaje recibido: {self.mensaje}")
 
 def juego():   # Se declara la función juego
     name = input("¡Hola usuario!, ¿Cómo te llamas?: ")  # Entrada de datos "input"
@@ -55,17 +75,12 @@ def juego():   # Se declara la función juego
     else:
         print("¡Respuesta Inválida!")
 
-class Saludar:
-    def __init__(self, saludar, user)
-        self.saludar = saludar
-        self.user = user
-    def saludo():
-        return f"{saludar} {user}"
-saludar_usuario = Saludar("Hola", "Usuario")
-print(saludar_usuario.saludo())
-
 # Iniciar el juego llamando la función "juego"
 
 if __name__ == '__main__':
+    try:
+        app = ConnectServer()
+    except OSError:
+        print("Hubo un error de conexión")
     juego()
-# En desarrollo el programa
+# En desarrollo el programa....
