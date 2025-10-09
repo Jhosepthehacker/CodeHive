@@ -1,3 +1,14 @@
+import {Random} from "random-js";
+
+const Random = new Random();
+
+const colors = [
+        "#0000FF", "#FF0000", "#8888FF",
+        "#24DA68", "#8888FF", "#42AD86"
+];
+
+const number_random = null;
+
 let saludos = "Bienvenidos "; // Declarar variable
 const saludos2 = "A Mi Página Web"; // Declarar Constante
 if (saludos == "Bienvenidos"){  // Comprobando valores y condiciones de la varible saludos
