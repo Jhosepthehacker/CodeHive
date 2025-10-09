@@ -3,7 +3,6 @@ import {Random} from "random-js";
 const Random = new Random();
 
 while (true){
-
 const colors = [
         "#0000FF", "#FF0000", "#8888FF",
         "#24DA68", "#8888FF", "#42AD86"
