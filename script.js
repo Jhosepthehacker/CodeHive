@@ -10,7 +10,7 @@ const colors = [
 
 const color_random = Random.choice(colors);
 
-document.getElementById('').style.color = `${color_random}`;
+document.getElementById('mostrarInforme').style.color = `${color_random}`;
 }
 
 let saludos = "Bienvenidos "; // Declarar variable
