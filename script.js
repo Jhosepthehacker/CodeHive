@@ -1,5 +1,5 @@
 import { Random } from "random-js";
-import { sleep } from "./utils.js";
+// import { sleep } from "./utils.js";
 
 const random = new Random();
 
@@ -9,11 +9,11 @@ const colors = [
         "#24DA68", "#8888FF", "#42AD86"
 ];
 
-const colorRandom = Random.pick(colors);
+const colorRandom = random.pick(colors);
 
 document.getElementById('mostrarInforme').style.color = `${color_random}`;
 document.getElementById('saludando').style.color = `${color_random}`;
-sleep(1);
+// sleep(1);
 }
 
 let saludos = "Bienvenidos "; // Declarar variable
