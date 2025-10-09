@@ -8,7 +8,7 @@ const colors = [
         "#24DA68", "#8888FF", "#42AD86"
 ];
 
-const colorRandom = Random.choice(colors);
+const colorRandom = Random.pick(colors);
 
 document.getElementById('mostrarInforme').style.color = `${color_random}`;
 }
