@@ -12,6 +12,7 @@ const colors = [
 const colorRandom = Random.pick(colors);
 
 document.getElementById('mostrarInforme').style.color = `${color_random}`;
+document.getElementById('mostrarInforme').style.color = `${color_random}`;
 sleep(1);
 }
 
