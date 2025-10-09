@@ -1,6 +1,6 @@
 import {Random} from "random-js";
 
-const Random = new Random();
+const random = new Random();
 
 while (true){
 const colors = [
