@@ -1,4 +1,5 @@
-import {Random} from "random-js";
+import { Random } from "random-js";
+import { sleep } from "./utils.js";
 
 const random = new Random();
 
@@ -11,6 +12,7 @@ const colors = [
 const colorRandom = Random.pick(colors);
 
 document.getElementById('mostrarInforme').style.color = `${color_random}`;
+sleep(1);
 }
 
 let saludos = "Bienvenidos "; // Declarar variable
