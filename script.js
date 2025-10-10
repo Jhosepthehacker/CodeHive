@@ -9,4 +9,14 @@ function message(){
   console.log(welcomeMessage);
 }
 
+function emojiRandom(){
+  const emojis = [
+     "😄", "😁", "😆",
+     "😃", "😉", "☺️"
+  ];
+
+  const anEmoji = random.pick(emojis);
+  document.getElementById('emojiFeliz').style.display = 'block';
+}
+
 message();
