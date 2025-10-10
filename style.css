@@ -128,69 +128,7 @@ display: flex;
 align-items: center;
 border: 2px dashed gold;
 background-color: #0000FF;
-padding: 2px;
-}
-
-#title{
-font-size: 20px;
-}
-
-li {
-margin-left: 6px;
-}
-
-#frontend{
-  margin: 20px;
-  text-align: center;
-}
-
-#frontend2{
-margin: 20px;
-padding: 12px;
-border: 2px dashed #2266AF;
-}
-
-#backend{
-margin: 20px;
-text-align: center;
-}
-
-#backend2{
-margin: 20px;
-padding: 12px;
-border: 2px dashed #FF6662;
-}
-
-#conectar{
-margin: 20px;
-text-align: center;
-}
-
-#api{
-margin: 20px;
-}
-
-#definir{
-margin: 20px;
-border: 6px dashed #8888FF;
-background-color: #46AD88;
 padding: 20px;
-}
-
-#type{
-text-align: center;
-border: 2px solid black;
-margin: 20px;
-}
-
-#definición{
-background-color: #DDAEF6;
-border: 2px dashed #EAD268;
-padding: 6px;
-margin: 20px;
-margin-top: 8px;
-font-family: verdana;
-}
 
 .box{
   width: 200px;
