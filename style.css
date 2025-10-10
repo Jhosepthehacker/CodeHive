@@ -157,4 +157,16 @@ padding: 2px;
   height: 20px;
   border: 1px solid #0000FF;
   border-radius: 6px;
+  margin: 2px;
+}
+
+#contactoFacebook{
+  text-decoration: none;
+  background-color: #0000FF;
+  border: 1px solid #0008B5;
+  border-radius: 6px;
+}
+
+#textFacebook{
+  color: #000000;
 }
