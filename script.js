@@ -14,7 +14,7 @@ document.getElementById('mostrarInforme').style.color = color;
 document.getElementById('saludando').style.color = `${color_random}`;
 }
 
-colorRandom()
+colorRandom();
 
 let saludos = "Bienvenidos "; // Declarar variable
 const saludos2 = "A Mi Página Web"; // Declarar Constante
@@ -25,7 +25,7 @@ if (saludos == "Bienvenidos"){  // Comprobando valores y condiciones de la varib
 }
 // Mostrar información
 function tipos(){
-        colorRandom()
+        colorRandom();
         document.getElementById('informacionProgramacion').style.display = 'block';
         document.getElementById('report').style.margin = '60px';
         document.getElementById('contacto').style.margin = '20px';
