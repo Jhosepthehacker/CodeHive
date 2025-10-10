@@ -24,12 +24,11 @@ if (saludos == "Bienvenidos"){  // Comprobando valores y condiciones de la varib
 // Mostrar información
 function tipos(){
         colorRandom();
-        document.getElementById('informacionProgramacion').style.display = 'block';
+        document.getElementById('mostrarInfo').style.display = 'block';
 }
 // Ocultar información
 function ocultarTipos(){
-        document.getElementById('informacionProgramacion').style.display = 'none';
-        document.getElementById('contacto').style.margin = '0';
+        document.getElementById('mostrarInfo').style.display = 'none';
 }
 
 // En desarrollo....
