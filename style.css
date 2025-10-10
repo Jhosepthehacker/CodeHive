@@ -128,7 +128,7 @@ display: flex;
 align-items: center;
 border: 2px dashed gold;
 background-color: #0000FF;
-padding: 20px;
+padding: 2px;
 
 .box{
   width: 200px;
