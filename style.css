@@ -129,6 +129,12 @@ align-items: center;
 border: 2px dashed gold;
 background-color: #0000FF;
 padding: 2px;
+}
+
+#title{
+  font-size: 20px;
+  font-family: quicksand, arial, verdana;
+}
 
 .box{
   width: 200px;
