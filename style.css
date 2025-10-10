@@ -153,13 +153,14 @@ padding: 2px;
   border: 2px solid #0000FF;
   border-radius: 6px;
   margin: 2px;
+  padding: 1px;
 }
 
 #contactoFacebook{
   background-color: #0000FF;
   text-decoration: none;
   margin-left: 2px;
-  padding: 2px;
+  padding: 1px;
   border: 2px solid #0000FF;
   border-radius: 6px;
 }
