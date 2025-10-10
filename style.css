@@ -228,7 +228,7 @@ font-family: verdana;
   margin: 2px;
 }
 
-#informacionProgramacion {
+#mostrarInfo{
    background-color: #ADEFA6;
   display: none;
 }
