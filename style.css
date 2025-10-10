@@ -269,13 +269,6 @@ font-family: verdana;
 color: #FF0000;
 }
 
-#report{
-border: 2px dashed #0FFF00;
-border-radius: 6px;
-margin-top: 2px;
-padding: 6px;
-}
-
 #saludando{
   margin-top: 20px;
   color: #56AD89;
