@@ -67,11 +67,6 @@ footer{
   margin-top: 6px;
 }
 
-#logo{
-    text-align: center;
-    color: blue;
-}
-
 #html2{
   background-color: #FF6666;
   border: 4px dashed #24DA68;
@@ -115,6 +110,8 @@ margin-top: 6px;
 margin-left: 6px;
 margin-right: 12px;
 margin-bottom: 6px;
+text-align: center;
+color: blue;
 }
 
 #saludos{
