@@ -165,8 +165,10 @@ padding: 2px;
   background-color: #0000FF;
   border: 1px solid #0008B5;
   border-radius: 6px;
+  width: 10px;
+  height: 10px;
 }
 
 #textFacebook{
-  color: #000000;
+  color: white;
 }
