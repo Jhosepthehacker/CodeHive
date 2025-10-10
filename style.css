@@ -163,8 +163,15 @@ padding: 2px;
   padding: 1px;
   border: 2px solid #0000FF;
   border-radius: 6px;
+  width: 10px;
+  height: 10px;
 }
 
 #emojiFeliz{
+  display: none;
   margin-left: 2px;
+}
+
+#textFacebook{
+  color: #6666FF;
 }
