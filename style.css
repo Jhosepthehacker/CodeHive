@@ -247,14 +247,6 @@ font-family: verdana;
   align-items: center;
 }
 
-.contactar{
-  display: none;
-  margin-top: 0px;
-  margin-left: 0;
-  margin-right: 0;
-  margin-bottom: 12px;
-}
-
 #TextoEnlace{
   background-color: #2222FF;
   color: white;
