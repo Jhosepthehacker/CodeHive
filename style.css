@@ -164,8 +164,6 @@ padding: 2px;
   padding: 1px;
   border: 2px solid #0000FF;
   border-radius: 6px;
-  width: 60px;
-  height: 60px;
 }
 
 #emojiFeliz{
@@ -175,5 +173,5 @@ padding: 2px;
 
 #textFacebook{
   color: #6666FF;
-  font-size: 4px;
+  font-size: 10px;
 }
