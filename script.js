@@ -1,20 +1,20 @@
 import { Random } from "random-js";
-// import { sleep } from "./utils.js";
 
 const random = new Random();
 
-while (true){
+function colorRandom(){
 const colors = [
         "#0000FF", "#FF0000", "#8888FF",
         "#24DA68", "#8888FF", "#42AD86"
 ];
 
-const colorRandom = random.pick(colors);
+const color = random.pick(colors);
 
-document.getElementById('mostrarInforme').style.color = `${color_random}`;
+document.getElementById('mostrarInforme').style.color = color_random();
 document.getElementById('saludando').style.color = `${color_random}`;
-// sleep(1);
 }
+
+colorRandom()
 
 let saludos = "Bienvenidos "; // Declarar variable
 const saludos2 = "A Mi Página Web"; // Declarar Constante
@@ -25,6 +25,7 @@ if (saludos == "Bienvenidos"){  // Comprobando valores y condiciones de la varib
 }
 // Mostrar información
 function tipos(){
+        colorRandom()
         document.getElementById('informacionProgramacion').style.display = 'block';
         document.getElementById('report').style.margin = '60px';
         document.getElementById('contacto').style.margin = '20px';
