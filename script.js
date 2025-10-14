@@ -18,4 +18,8 @@ function emojiRandom(){
   const anEmoji = random.pick(emojis);
 }
 
+const seeEmoji = () => {
+  document.getElementById('emojiHappy').style.display = "block";
+}
+
 message();
