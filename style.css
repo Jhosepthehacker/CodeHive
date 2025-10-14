@@ -172,3 +172,7 @@ padding: 2px;
 #textFacebook{
   color: white;
 }
+
+#emojiFeliz{
+  display: none;
+}
