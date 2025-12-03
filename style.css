@@ -183,3 +183,8 @@ padding: 2px;
   background-color: #00000b;
   transform: scale(0.9);
 }
+
+.labelText {
+  color: #0000ff;
+  font-weight: bold;
+}
