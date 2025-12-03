@@ -176,6 +176,7 @@ padding: 2px;
 #saludar {
   background-color: #00ff00;
   transition: background-color 0.3s ease-in-out;
+  border-radius: 12px;
 }
 
 #saludar:hover {
