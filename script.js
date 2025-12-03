@@ -1,5 +1,3 @@
-import { Random } from "random-js";
-
 const random = new Random();
 
 const message = () => {
@@ -7,15 +5,6 @@ const message = () => {
 
   alert(welcomeMessage);
   console.log(welcomeMessage);
-}
-
-function emojiRandom(){
-  const emojis = [
-     "😄", "😁", "😆",
-     "😃", "😉", "☺️"
-  ];
-
-  const anEmoji = random.pick(emojis);
 }
 
 const seeEmoji = () => {
