@@ -188,3 +188,8 @@ padding: 2px;
   color: #0000ff;
   font-weight: bold;
 }
+
+#userName {
+  position: relative;
+  left: 20px;
+}
