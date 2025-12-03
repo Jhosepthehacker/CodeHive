@@ -205,3 +205,8 @@ padding: 2px;
 #userLogs:hover {
   background-color: #ab8fc6;
 }
+
+#subtitle {
+  text-align: center;
+  color: #00bb00;
+}
