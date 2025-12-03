@@ -68,8 +68,8 @@ footer{
 }
 
 #html2{
-  background-color: #FF6666;
-  border: 4px dashed #24DA68;
+  background-color: #ff6666;
+  border: 4px dashed #24da68;
   border-radius: 6px;
   padding: 20px;
   margin: 20px;
@@ -79,8 +79,8 @@ footer{
 }
 
 #css2{
-  background-color: #6666FF;
-  border: 4px dashed #00008B;
+  background-color: #6666ff;
+  border: 4px dashed #00008b;
   border-radius: 6px;
   padding: 20px;
   margin: 20px;
@@ -99,11 +99,11 @@ footer{
 }
 
 h4{
-  background-color: #6788DE;
+  background-color: #6788de;
   padding: 6px;
   border: 4px dashed black;
   text-align: center;
-  color: #24DA68;
+  color: #24da68;
   margin: 20px;
   font-family: verdana;
 }
@@ -129,7 +129,7 @@ margin: 12px;
 display: flex;
 align-items: center;
 border: 2px dashed gold;
-background-color: #0000FF;
+background-color: #0000ff;
 padding: 2px;
 }
 
@@ -155,20 +155,30 @@ padding: 2px;
 #logoFacebook{
   width: 20px;
   height: 20px;
-  border: 1px solid #0000FF;
+  border: 1px solid #0000ff;
   border-radius: 6px;
   margin: 2px;
 }
 
 #contactoFacebook{
   text-decoration: none;
-  background-color: #0000FF;
+  background-color: #0000ff;
   color: white;
-  border: 1px solid #0008B5;
+  border: 1px solid #0008b5;
   border-radius: 6px;
 }
 
 #emojiHappy{
   display: none;
   margin-left: 6px;
+}
+
+#saludar {
+  background-color: #00ff00;
+  transition: background-color 0.3s ease-in-out;
+}
+
+#saludar:hover {
+  background-color: #00000b;
+  transform: scale(0.9);
 }
