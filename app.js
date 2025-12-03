@@ -35,4 +35,5 @@ const seeEmoji = () => {
   document.getElementById('emojiHappy').style.display = "block";
 }
 
+sendRequests();
 message();
