@@ -193,3 +193,9 @@ padding: 2px;
   position: relative;
   left: 26px;
 }
+
+#userLogs {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 0 60px 0 60px;
+}
