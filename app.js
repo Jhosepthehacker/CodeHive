@@ -22,6 +22,7 @@ const sendRequests = () => {
      console.log(`Ha ocurrido un error: ${response.ok}`);
     }
   }
+  getData();
 }
 
 const message = () => {
