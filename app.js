@@ -1,6 +1,5 @@
 const sendRequests = () => {
   async function getData() {
-    // Prueba de API en localhost
     const API_URL = "https://codehive-hkut.onrender.com/welcome";
 
     const response = await fetch(API_URL, {
@@ -9,7 +8,7 @@ const sendRequests = () => {
 
     try {
       if (!response.ok) {
-        throw new Error(`Ha ocurrido un error: ${response.ok}`);
+        throw new Error(`Ha ocurrido un error`);
       }
 
       const json = await response.json();
@@ -19,17 +18,10 @@ const sendRequests = () => {
       console.log("Response Of The Backend: " + message);
     }
    catch (error) {
-     console.log(`Ha ocurrido un error: ${response.ok}`);
+     console.log(`Ha ocurrido un error`);
     }
   }
   getData();
-}
-
-const message = () => {
-  const welcomeMessage = "Hola Bienvenido(a)";
-
-  alert(welcomeMessage);
-  console.log(welcomeMessage);
 }
 
 const seeEmoji = () => {
