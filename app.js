@@ -1,7 +1,7 @@
 const sendRequests = () => {
   async function getData() {
     // Prueba de API en localhost
-    const API_URL = "https://codehive-hkut.onrender.com";
+    const API_URL = "https://codehive-hkut.onrender.com/welcome";
 
     const response = await fetch(API_URL, {
       method: 'GET'
