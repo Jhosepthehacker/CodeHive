@@ -102,10 +102,7 @@ h4 {
 #logo {
 width: 60px; 
 height: 60px;
-margin-top: 6px;
-margin-left: 6px;
-margin-right: 12px;
-margin-bottom: 6px;
+margin: 6px 12px 6px 6px;
 text-align: center;
 color: blue;
 }
@@ -120,7 +117,7 @@ margin: 12px;
 display: flex;
 align-items: center;
 border: 2px dashed gold;
-background-color: #0000ff;
+background-color: #00008b;
 padding: 2px;
 }
 
