@@ -1,5 +1,5 @@
 /* body styles */
-body{
+body {
   background-color: #222222;
   color: #ffffff;
   margin: 0;
@@ -8,14 +8,14 @@ body{
 
 /* id informe styles */
 
-#informe{
+#informe {
   text-align: center;
 color: purple;
 }
 
 /* button styles */
 
-button{
+button {
   background-color: lightgreen;
   text-align: center;
   color: green;
@@ -23,23 +23,23 @@ button{
 
 /* input styles */
 
-input{
+input {
    color: orange;
 }
 
 /* html styles */
 
-#html{
+#html {
    text-align: center;
    background-color: orange;
    margin: 20px;
-   border: 4px solid black;
-  font-family: verdana;
+   border-radius: 20px;
+   font-family: verdana;
 }
 
 /* css styles */
 
-#css{
+#css {
    text-align: center;
    background-color: blue;
    margin: 20px;
@@ -49,7 +49,7 @@ input{
 
 /* js styles */
 
-#js{
+#js {
    text-align: center;
    background-color: yellow;
    margin: 20px;
@@ -57,29 +57,22 @@ input{
    font-family: serif;
 }
 
-form{
+form {
   width: 40px;
   height: 40px;
 }
 
-footer{
-  text-align: center;
-  color: grey;
-  margin-top: 6px;
-}
-
-#html2{
+#html2 {
   background-color: #ff6666;
   border: 4px dashed #24da68;
   border-radius: 6px;
   padding: 20px;
   margin: 20px;
-  opacity: 0.8;
-  font-family: sheriff;
+  font-family: arial;
   text-align: justify;
 }
 
-#css2{
+#css2 {
   background-color: #6666ff;
   border: 4px dashed #00008b;
   border-radius: 6px;
@@ -89,7 +82,7 @@ footer{
   font-family: arial;
 }
 
-#js2{
+#js2 {
   background-color: orange;
   border: 4px dashed gold;
   border-radius: 6px;
@@ -99,7 +92,7 @@ footer{
   font-family: quicksand;
 }
 
-h4{
+h4 {
   background-color: #6788de;
   padding: 6px;
   border: 4px dashed black;
@@ -109,7 +102,7 @@ h4{
   font-family: verdana;
 }
 
-#logo{
+#logo {
 width: 60px; 
 height: 60px;
 margin-top: 6px;
@@ -120,13 +113,13 @@ text-align: center;
 color: blue;
 }
 
-#saludos{
+#saludos {
 text-align: center;
 color: #0000FF;
 margin: 12px;
 }
 
-#logotipo{
+#logotipo {
 display: flex;
 align-items: center;
 border: 2px dashed gold;
@@ -134,12 +127,12 @@ background-color: #0000ff;
 padding: 2px;
 }
 
-#title{
+#title {
   font-size: 30px;
   font-family: arial;
 }
 
-.box{
+.box {
   width: 200px;
   height: 160px;
   margin: 2px;
@@ -147,7 +140,7 @@ padding: 2px;
   border: 2px solid black;
 }
 
-#contacto{
+#contacto {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
@@ -211,4 +204,10 @@ padding: 2px;
 #subtitle {
   text-align: center;
   color: #00bb00;
+}
+
+footer {
+  text-align: center;
+  color: grey;
+  margin-top: 6px;
 }
