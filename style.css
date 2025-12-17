@@ -72,9 +72,8 @@ form {
 }
 
 #css2 {
-  background-color: #6666ff;
-  border: 4px dashed #00008b;
-  border-radius: 6px;
+  background-color: #8f00ff;
+  border-radius: 20px;
   padding: 20px;
   margin: 20px;
   opacity: 0.8;
@@ -82,9 +81,8 @@ form {
 }
 
 #js2 {
-  background-color: orange;
-  border: 4px dashed gold;
-  border-radius: 6px;
+  background-color: #8f00ff;
+  border-radius: 20px;
   padding: 20px;
   margin: 20px;
   opacity: 0.8;
