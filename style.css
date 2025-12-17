@@ -1,8 +1,8 @@
 /* body styles */
 body{
-  background-image: url('Imagen/Logotipo/background.jpg');
+  background-color: #222222;
   margin: 0;
-  
+  padding: 0;
 }
 
 /* id informe styles */
