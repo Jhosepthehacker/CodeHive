@@ -31,7 +31,7 @@ input {
 
 #html {
    text-align: center;
-   background-color: orange;
+   background: linear-gradient(40deg, #66ff66 60%, #ffffff 40%);
    margin: 20px;
    border-radius: 20px;
    font-family: verdana;
@@ -64,8 +64,7 @@ form {
 
 #html2 {
   background-color: #ff6666;
-  border: 4px dashed #24da68;
-  border-radius: 6px;
+  border-radius: 20px;
   padding: 20px;
   margin: 20px;
   font-family: arial;
