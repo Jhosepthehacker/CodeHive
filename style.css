@@ -10,7 +10,7 @@ body {
 
 #informe {
   text-align: center;
-color: purple;
+  color: purple;
 }
 
 /* button styles */
@@ -69,7 +69,7 @@ form {
   }
   to {
     position: relative;
-    left: 6px;
+    left: 4px;
   }
 }
 
