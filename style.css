@@ -73,6 +73,17 @@ form {
   }
 }
 
+@keyframes move2 {
+  from {
+    position: relative;
+    left: 600px;
+  }
+  to {
+    position: relative;
+    left: 4px;
+  }
+}
+
 #html2 {
   background-color: #8f00ff;
   border-radius: 20px;
@@ -89,6 +100,9 @@ form {
   background-color: #8f00ff;
   border-radius: 20px;
   padding: 20px;
+  animation: move2;
+  animation-duration: 3.2s
+  animation-fill-mode: forwards;
   margin: 20px;
   opacity: 0.8;
   font-family: arial;
@@ -98,6 +112,9 @@ form {
   background-color: #8f00ff;
   border-radius: 20px;
   padding: 20px;
+  animation: move1;
+  animation-duration: 4.2s;
+  animation-fill-mode: forwards;
   margin: 20px;
   opacity: 0.8;
   font-family: quicksand;
