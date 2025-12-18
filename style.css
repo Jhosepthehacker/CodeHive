@@ -70,7 +70,6 @@ form {
   to {
     position: relative;
     left: 20px;
-    margin: 20px;
   }
 }
 
@@ -81,6 +80,7 @@ form {
   animation: move1;
   animation-duration: 3.2s;
   animation-fill-mode: forwards;
+  margin: 20px;
   font-family: arial;
   text-align: justify;
 }
