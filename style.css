@@ -107,12 +107,6 @@ text-align: center;
 color: blue;
 }
 
-#saludos {
-text-align: center;
-color: #0000FF;
-margin: 12px;
-}
-
 #logotipo {
 display: flex;
 align-items: center;
