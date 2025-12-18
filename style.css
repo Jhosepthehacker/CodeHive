@@ -41,7 +41,7 @@ input {
 
 #css {
    text-align: center;
-   background: linear-gradient(40deg, #66ff66 60%, #ffffff 20%);
+   background: linear-gradient(40deg, #66ff66 80%, #ffffff 20%);
    margin: 20px;
    border-radius: 20px;
    font-family: quicksand;
@@ -51,7 +51,7 @@ input {
 
 #js {
    text-align: center;
-   background: linear-gradient(40deg, #66ff66 60%, #ffffff 20%);
+   background: linear-gradient(40deg, #66ff66 80%, #ffffff 20%);
    margin: 20px;
    border-radius: 20px;
    font-family: serif;
