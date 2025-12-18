@@ -2,11 +2,11 @@ const sendRequests = () => {
   async function getData() {
     const API_URL = "https://codehive-hkut.onrender.com/welcome";
 
-    const response = await fetch(API_URL, {
-      method: 'GET'
-    });
-
     try {
+      const response = await fetch(API_URL, {
+        method: 'GET'
+      });
+      
       if (!response.ok) {
         throw new Error(`Ha ocurrido un error`);
       }
@@ -14,7 +14,7 @@ const sendRequests = () => {
       const json = await response.json();
       const message = json.message;
 
-      alert("Response Of The Backend: " + message);
+      // alert("Response Of The Backend: " + message);
       console.log("Response Of The Backend: " + message);
     }
    catch (error) {
