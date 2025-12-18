@@ -62,11 +62,24 @@ form {
   height: 40px;
 }
 
+@keyframes move1 {
+  from {
+    position: relative;
+    left: -60px;
+  }
+  to {
+    position: relative;
+    left: 20px;
+  }
+}
+
 #html2 {
   background-color: #8f00ff;
   border-radius: 20px;
   padding: 20px;
-  margin: 20px;
+  animation: move1;
+  animation-duration: 3.2s;
+  animation-fill-mode: forwards;
   font-family: arial;
   text-align: justify;
 }
