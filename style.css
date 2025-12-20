@@ -101,7 +101,7 @@ form {
   border-radius: 20px;
   padding: 20px;
   animation: move2;
-  animation-duration: 3.2s
+  animation-duration: 3.2s;
   animation-fill-mode: forwards;
   margin: 20px;
   opacity: 0.8;
