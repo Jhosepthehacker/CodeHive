@@ -217,7 +217,7 @@ padding: 2px;
 }
 
 #userLogs {
-  background-color: #39FF14;
+  background-color: #2b00f8;
   transition: background-color 0.6s ease-in-out;
   animation: seeLogin;
   animation-duration: 2.2s;
@@ -229,7 +229,6 @@ padding: 2px;
 
 #userLogs:hover {
   background-color: #2b8be2;
-  padding-bottom: 20px;
 }
 
 #subtitle {
