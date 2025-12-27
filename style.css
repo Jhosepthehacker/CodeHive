@@ -248,8 +248,8 @@ footer {
 }
 
 #contentVeryImportant {
-  width: 60px;
-  height: 60px;
+  width: 200px;
+  height: 120px;
   margin: 20px;
   overflow: auto;
 }
