@@ -246,3 +246,14 @@ footer {
   color: #0000ff;
   font-weight: bold;
 }
+
+#contentVeryImportant {
+  width: 60px;
+  height: 60px;
+  margin: 20px;
+  overflow: auto;
+}
+
+#myTip {
+  font-family: arial;
+}
