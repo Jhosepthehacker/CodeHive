@@ -255,5 +255,7 @@ footer {
 }
 
 #myTip {
+  position: relative;
+  left: 10px;
   font-family: arial;
 }
