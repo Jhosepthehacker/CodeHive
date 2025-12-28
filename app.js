@@ -31,6 +31,13 @@ const sendRequests = () => {
         headers: {"Content-Type": "application-json"},
         body: JSON.stringify({})
       });
+
+      if (!response.ok) {
+        throw new Error("Ha ocurrido un error");
+      }
+
+      const json = await response.json();
+      const message = json.message;
     }
     catch (error) {
       console.log("Ha ocurrido un error: " + error);
