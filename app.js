@@ -13,8 +13,6 @@ const sendRequests = () => {
 
       const json = await response.json();
       const message = json.message;
-
-      console.log("Response Of The Backend: " + message);
     }
    catch (error) {
      console.log("Ha ocurrido un error: " + error);
