@@ -24,6 +24,17 @@ const sendRequests = () => {
 
   async function sendDataOfUsers() {
     const API_URL = "https://codehivedev.netlify.app/endpoint_example";
+
+    try {
+      const response = await fetch(API_URL, {
+        method: 'POST',
+        headers: {"Content-Type": "application-json"},
+        body: JSON.stringify({})
+      });
+    }
+    catch (error) {
+      console.log("Ha ocurrido un error");
+    }
   }
 }
 
