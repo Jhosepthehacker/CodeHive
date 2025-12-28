@@ -14,7 +14,6 @@ const sendRequests = () => {
       const json = await response.json();
       const message = json.message;
 
-      // alert("Response Of The Backend: " + message);
       console.log("Response Of The Backend: " + message);
     }
    catch (error) {
@@ -22,6 +21,10 @@ const sendRequests = () => {
     }
   }
   getData();
+
+  async function sendDataOfUsers() {
+    const API_URL = "https://codehivedev.netlify.app/endpoint_example";
+  }
 }
 
 const seeEmoji = () => {
