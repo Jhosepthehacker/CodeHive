@@ -8,7 +8,7 @@ const sendRequests = () => {
       });
       
       if (!response.ok) {
-        throw new Error(`Ha ocurrido un error`);
+        throw new Error("Ha ocurrido un error");
       }
 
       const json = await response.json();
@@ -17,7 +17,7 @@ const sendRequests = () => {
       console.log("Response Of The Backend: " + message);
     }
    catch (error) {
-     console.log(`Ha ocurrido un error`);
+     console.log("Ha ocurrido un error: " + error);
     }
   }
   getData();
