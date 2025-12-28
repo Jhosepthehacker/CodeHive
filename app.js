@@ -33,7 +33,7 @@ const sendRequests = () => {
       });
     }
     catch (error) {
-      console.log("Ha ocurrido un error");
+      console.log("Ha ocurrido un error: " + error);
     }
   }
 }
