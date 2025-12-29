@@ -22,6 +22,10 @@ const sendRequests = () => {
 
   async function sendDataOfUsers() {
     const API_URL = "https://codehivedev.netlify.app/endpoint_example";
+    const input1 = document.getElementById('userName');
+    const input2 = document.getElementById('password');
+    
+    const userName, password = input1.value, input2.value;
 
     try {
       const response = await fetch(API_URL, {
