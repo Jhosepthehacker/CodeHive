@@ -31,7 +31,11 @@ const sendRequests = () => {
       const response = await fetch(API_URL, {
         method: 'POST',
         headers: {"Content-Type": "application-json"},
-        body: JSON.stringify({name: userName})
+        body: JSON.stringify({
+                   userName: userName,
+                   password: password
+                             }
+        )
       });
 
       if (!response.ok) {
