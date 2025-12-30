@@ -207,27 +207,15 @@ padding: 2px;
   left: 26px;
 }
 
-@keyframes seeLogin {
-  from {
-    opacity: 0.0;
-  }
-  to {
-    opacity: 1.0;
-  }
-}
-
 #userLogs {
-  background-color: #2b00f8;
+  background-color: #ffffff;
   transition: background-color 0.6s ease-in-out;
-  animation: seeLogin;
-  animation-duration: 2.2s;
-  animation-fill-mode: forwards;
   margin: 12px;
   padding: 6px;
 }
 
 #userLogs:hover {
-  background-color: #2b8be2;
+  background-color: #ffffee;
 }
 
 #subtitle {
