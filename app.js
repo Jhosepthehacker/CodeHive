@@ -21,7 +21,7 @@ const sendRequests = () => {
   getData();
 
   async function sendDataOfUsers() {
-    const API_URL = "https://codehivedev.netlify.app/endpoint_example";
+    const API_URL = "https://codehivedev.netlify.app/users";
     const input1 = document.getElementById('userName');
     const input2 = document.getElementById('password');
     
