@@ -34,8 +34,7 @@ const sendRequests = () => {
         body: JSON.stringify({
                    userName: userName,
                    password: password
-                             }
-        )
+                             })
       });
 
       if (!response.ok) {
