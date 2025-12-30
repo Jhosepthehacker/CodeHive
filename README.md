@@ -20,6 +20,3 @@ https://jhosepthehacker.github.io/CodeHive/
 
 >[!CAUTION]
 >Les agradezco usar este correo para contacto y no para malas actividades
-
-<img href="https://github.com/kiwibrowser/src.next/blob/kiwi/LICENSE">
-  <img src="https://img.shields.io/github/license/kiwibrowser/src.next?color=%236BDDD5"/></a>
