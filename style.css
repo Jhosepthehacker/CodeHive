@@ -208,13 +208,13 @@ padding: 2px;
 }
 
 #userLogs {
-  background-color: #ffffdd;
+  background-color: #0000cc;
   transition: background-color 0.6s ease-in-out;
   padding: 6px;
 }
 
 #userLogs:hover {
-  background-color: #ffffcc;
+  background-color: #0000bb;
 }
 
 #subtitle {
