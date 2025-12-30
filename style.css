@@ -187,13 +187,13 @@ padding: 2px;
 }
 
 #saludar {
-  background-color: #0088ff;
+  background-color: #00ff00;
   transition: background-color 0.6s ease-in-out;
   border-radius: 12px;
 }
 
 #saludar:hover {
-  background-color: #0066ff;
+  background-color: #00000b;
   transform: scale(0.9);
 }
 
@@ -208,13 +208,13 @@ padding: 2px;
 }
 
 #userLogs {
-  background-color: #6ca0dc;
+  background-color: #0088ff;
   transition: background-color 0.6s ease-in-out;
   padding: 6px;
 }
 
 #userLogs:hover {
-  background-color: #0000ee;
+  background-color: #0066ff;
 }
 
 #subtitle {
