@@ -259,3 +259,7 @@ footer {
   left: 10px;
   font-family: arial;
 }
+
+#titleOfTip {
+  text-align: center;
+}
