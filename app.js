@@ -1,9 +1,10 @@
+let API_URL = "https://codehive-hkut.onrender.com/welcome";
+
 const sendRequests = () => {
   async function getData() {
-    const API_URL = "https://codehive-hkut.onrender.com/welcome";
 
     try {
-      const response = await fetch(API_URL, {
+      const response = await fetch(window.API_URL, {
         method: 'GET'
       });
       
