@@ -250,3 +250,11 @@ footer {
 #titleOfTip {
   text-align: center;
 }
+
+#LogoContent {
+  display: none;
+}
+
+#AllContent {
+  display: none;
+}
