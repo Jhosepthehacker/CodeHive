@@ -264,3 +264,8 @@ footer {
   top: 60px;
   left: 60px;
 }
+
+#questionOfVerification {
+  background-color: #2aa266;
+  border-radius: 60px;
+}
