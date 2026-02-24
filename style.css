@@ -271,5 +271,6 @@ footer {
 
 #questionOfVerification {
   background-color: #2aa266;
+  width: 10px;
   border-radius: 60px;
 }
