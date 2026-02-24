@@ -258,3 +258,9 @@ footer {
 #AllContent {
   display: none;
 }
+
+.centerBox {
+  position: relative;
+  top: 60px;
+  left: 60px;
+}
