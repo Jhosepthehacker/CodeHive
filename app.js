@@ -1,3 +1,5 @@
+// Declaramos una variable llamada "API_URL" para almacenar el enpoint del servidor backend en el cual luego le realizaremos una petición
+
 let API_URL = "https://codehive-hkut.onrender.com/welcome";
 
 const sendRequests = () => {
