@@ -275,3 +275,8 @@ footer {
   text-align: center;
   border-radius: 60px;
 }
+
+#userVerification {
+  background-color: #66dd26;
+  margin: 20px;
+}
