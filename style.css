@@ -288,3 +288,17 @@ footer {
   text-align: center;
   border-radius: 60px;
 }
+
+#sendInfoOfVerification {
+  background-color: #00dd00;
+  text-align: center;
+  border: 2px solid #0000dd;
+  transition: background-color 0.2s ease-in-out;
+  transition: border 0.4s ease-in-out;
+  border-radius: 60px;
+}
+
+#sendInfoOfVerification:hover {
+  background-color: #00cc00;
+  border: 2px solid #0000dd;
+}
