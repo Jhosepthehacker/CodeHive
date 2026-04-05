@@ -270,13 +270,13 @@ footer {
 }
 
 #questionOfVerification {
-  background-color: #2aa266;
+  background-color: #26aadd;
   width: 200px;
   text-align: center;
   border-radius: 60px;
 }
 
 #userVerification {
-  background-color: #66dd26;
+  background-color: #aacc26;
   margin: 20px;
 }
