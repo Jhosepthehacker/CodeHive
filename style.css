@@ -290,9 +290,9 @@ footer {
 }
 
 #sendInfoOfVerification {
-  background-color: #00dd00;
+  background-color: #00ee00;
   text-align: center;
-  border: 2px solid #0000dd;
+  border: 2px solid #0000ee;
   transition: background-color 0.2s ease-in-out;
   transition: border 0.4s ease-in-out;
   margin-top: 6px;
