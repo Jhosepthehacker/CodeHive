@@ -2,6 +2,10 @@
 
 let API_URL = "https://codehive-coyk.onrender.com";
 
+const getInputOfVerification = () => {
+  const user_name = document.getElementById();
+}
+
 const sendRequests = () => {
   async function getData() {
 
