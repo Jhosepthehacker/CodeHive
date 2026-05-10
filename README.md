@@ -1,5 +1,6 @@
 # Code Hive
 
+> [!NOTE]
 > Visita la web aquí
 ```bash
 https://jhosepthehacker.github.io/CodeHive/
