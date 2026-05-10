@@ -1,8 +1,6 @@
 # Code Hive
 
-## Mi Web
-
-> Visiten aquí mi página web
+> Visita la web aquí
 ```bash
 https://jhosepthehacker.github.io/CodeHive/
 ```
