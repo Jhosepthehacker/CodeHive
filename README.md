@@ -9,7 +9,7 @@ https://jhosepthehacker.github.io/CodeHive/
 ## 
 
 > [!IMPORTANT]
-> Cualquier posible error o sugerencia, por favor informar a support@codehive.com
+> Cualquier posible error o sugerencia, por favor informar a support@codehivedev.com
 
 > [!TIP]
 > También pueden mandarme un mensaje y ser colaborador de la página web
