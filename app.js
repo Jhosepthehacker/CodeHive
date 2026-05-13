@@ -3,12 +3,11 @@
 let API_URL = "https://codehive-coyk.onrender.com";
 
 const getInputOfVerification = () => {
-  const user_name = document.getElementById();
+  // const user_name = document.getElementById();
 }
 
 const sendRequests = () => {
   async function getData() {
-
     try {
       const response = await fetch(window.API_URL, {
         method: 'GET'
@@ -28,7 +27,7 @@ const sendRequests = () => {
   getData();
 
   async function sendDataOfUsers() {
-    const API_URL = "https://codehivedev.netlify.app/users";
+    // const API_URL = "https://codehivedev.netlify.app/users";
     const input1 = document.getElementById('userName');
     const input2 = document.getElementById('password');
     
