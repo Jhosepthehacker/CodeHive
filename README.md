@@ -19,3 +19,5 @@ https://jhosepthehacker.github.io/CodeHive/
 
 > [!CAUTION]
 > Les agradezco usar este correo para contacto y no para malas actividades
+
+>[![Discord Comunity](https://w7.pngwing.com/pngs/1023/637/png-transparent-discord-hd-logo-thumbnail.png
