@@ -16,5 +16,3 @@ https://jhosepthehacker.github.io/CodeHive/
 
 > [!WARNING]
 > Los que quieren apoyar por favor coloquense en contacto conmigo en el correo que les dejé usar solamente para contactar
-
-![Discord Comunity](https://example.com)
