@@ -14,7 +14,7 @@
 
         #loginSpace {
           position: absolute;
-          bottom: 80px;
+          bottom: 40px;
           margin: 20px;
         }
 
@@ -22,11 +22,26 @@
           background-color: rgba(60, 40, 80, 1.0);
           color: #000000;
         }
+
+        #name {
+          background-color: rgba(0, 0, 60, 0.6);
+          border-radius: 60px;
+          text-decoration: none;
+        }
+        
+        #password {
+          background-color: rgba(0, 0, 60, 0.6);
+          border-radius: 60px;
+          text-decoration: none;
+        }
+        
       </style>
     </head>
     <body>
       <div id="loginSpace">
          <h2 id="textCreateAccount">Crear Cuenta</h2>
+        <input name="Nombre" type="text" placeholder="Ingresa tu nombre" id="name">
+        <input name="Contraseña" type="password" placeholder="Ingresa tu contraseña" id="password">
       </div>
     </body>
   </html>
