@@ -84,6 +84,15 @@ form {
   }
 }
 
+@keyframes sizeContentAnimation {
+  from {
+    transform: scan(20deg);
+  }
+  to {
+    transform: scan(60deg);
+  }
+}
+
 #html2 {
   background-color: #8f00ff;
   border-radius: 20px;
