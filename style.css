@@ -255,6 +255,7 @@ footer {
 
 #myConsejo {
   position: absolute;
+  z-index: 1
 }
 
 #myTip {
