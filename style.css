@@ -239,6 +239,7 @@ footer {
   animation: sizeContentAnimation;
   animation-duration: 6.6s;
   animation-fill-mode: forwards;
+  z-index: 1;
   margin: 20px;
   overflow: auto;
 }
