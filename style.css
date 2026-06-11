@@ -86,10 +86,10 @@ form {
 
 @keyframes sizeContentAnimation {
   from {
-    transform: scan(20deg);
+    transform: scale(1.6);
   }
   to {
-    transform: scan(60deg);
+    transform: scale(1.0);
   }
 }
 
@@ -236,6 +236,9 @@ footer {
 #contentVeryImportant {
   width: 300px;
   height: 160px;
+  animation: sizeContentAnimation;
+  animation-duration: 6.6s;
+  animation-fill-mode: forwards;
   margin: 20px;
   overflow: auto;
 }
